@@ -17,7 +17,7 @@ https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-live-server-amd64.iso
 - Unduh installer offline PNETLAB v6 yang disesuaikan untuk PHP 7.4, pada tautan di bawah ini:
 
 ```linux
-https://canalsecinfra.sharepoint.com/:u:/s/Arquivos/IQD-zLKcmrPlRYkfY6XwvvnvATe3ADydvjLVRNbIC7MW-IQ?e=UWCilP
+https://drive.google.com/drive/folders/1pZjqDLoY8rMX-3KsIXC4eTFeqKxu7Vwp?usp=sharing
 ```
 
 - Unggah file tersebut ke VM Ubuntu, di folder /tmp
